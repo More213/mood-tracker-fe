@@ -1,0 +1,16 @@
+.toolbar{
+    width: 100%;
+    background: #15628f;
+    height: 60px;
+    /* margin: 0; */
+}
+h1{
+    margin: 0;
+    color: #ffffff;
+}
+.btn {
+    height: 30px;
+    color: #ffffff;
+    width: auto;
+    padding: 0px 15px;
+}
