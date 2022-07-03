@@ -1,0 +1,27 @@
+.categoryWrap {
+  margin: 40px ;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.category{
+  border: 1px solid rgba(118, 168, 210, 0.333);
+  width: 350px;
+  margin-top: 20px;
+  box-shadow: 0 2px 20px rgba(0,0,0,0.25), 0 5px 5px rgba(0,0,0,0.22);
+  background: #fff;
+  margin-left: 20px;
+  margin-right: 20px;
+
+  .todoTitle{
+    font-size: 20px;
+    margin: 20px;
+    font-weight: 600;
+  }
+  .todoList{
+    display: flex;
+    flex-direction: column;
+    font-size: 16px;
+    // margin: 20px ;
+  }
+}
